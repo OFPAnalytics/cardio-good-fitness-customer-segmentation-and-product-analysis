@@ -21,6 +21,7 @@ The dataset includes customer demographics, income, fitness level, weekly usage,
 ## Tools Used
 - Python (Pandas, NumPy, Seaborn, Matplotlib)
 - Jupyter Notebook
+- PowerBI
 
 ## Key Insights
 - TM798 is predominantly purchased by high-income, highly active customers
